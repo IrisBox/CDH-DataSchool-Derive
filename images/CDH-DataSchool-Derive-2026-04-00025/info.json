@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 169,
+    "height" : 47
+  }, {
+    "width" : 338,
+    "height" : 94
+  }, {
+    "width" : 675,
+    "height" : 188
+  }, {
+    "width" : 1350,
+    "height" : 375
+  }, {
+    "width" : 2700,
+    "height" : 750
+  }, {
+    "width" : 5400,
+    "height" : 1500
+  } ],
+  "profile" : "level0",
+  "width" : 5400,
+  "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00025",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1500
+}
