@@ -1,0 +1,1778 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://IrisBox.github.io/CDH-DataSchool-Derive/manifests/Team-1.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Team-1 " ]
+  },
+  "summary" : {
+    "en" : [ "Evidence from Team 1 - Light Blue" ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00025/full/max/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 1500,
+    "width" : 5400,
+    "service" : [ {
+      "tiles" : [ {
+        "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+        "width" : 1024,
+        "height" : 1024
+      } ],
+      "protocol" : "http://iiif.io/api/image",
+      "sizes" : [ {
+        "width" : 169,
+        "height" : 47
+      }, {
+        "width" : 338,
+        "height" : 94
+      }, {
+        "width" : 675,
+        "height" : 188
+      }, {
+        "width" : 1350,
+        "height" : 375
+      }, {
+        "width" : 2700,
+        "height" : 750
+      }, {
+        "width" : 5400,
+        "height" : 1500
+      } ],
+      "profile" : "level0",
+      "width" : 5400,
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00025",
+      "type" : "ImageService3",
+      "@context" : "http://iiif.io/api/image/3/context.json",
+      "height" : 1500
+    } ]
+  } ],
+  "provider" : [ {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/provider/k2udhn06eed-mo06753t",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "Cambridge Digital Humanities" ]
+    },
+    "logo" : [ {
+      "id" : "https://www.cdh.cam.ac.uk/wp-content/themes/cdhumanities/static/min/img/logo.png",
+      "type" : "Image"
+    } ]
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/s05d73xrzfs-mo05v6rw",
+    "type" : "Canvas",
+    "height" : 2360,
+    "width" : 1640,
+    "label" : {
+      "en" : [ "01" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00001/full/410,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 590,
+      "width" : 410
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/s05d73xrzfs-mo05v6rw/annotation-page/eouhzw9bj15-mo05v6rw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/q63cb75ikrl-mo05v6rv",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/s05d73xrzfs-mo05v6rw",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2360,
+          "width" : 1640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 52,
+              "height" : 74
+            }, {
+              "width" : 103,
+              "height" : 148
+            }, {
+              "width" : 205,
+              "height" : 295
+            }, {
+              "width" : 410,
+              "height" : 590
+            }, {
+              "width" : 820,
+              "height" : 1180
+            }, {
+              "width" : 1640,
+              "height" : 2360
+            } ],
+            "profile" : "level0",
+            "width" : 1640,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2360
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/getx03phdh-mo05vrmu",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "02" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00002/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/getx03phdh-mo05vrmu/annotation-page/92izb4mdej8-mo05vrmu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/y7mwddk3318-mo05vrmu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/getx03phdh-mo05vrmu",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00002",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ogdurfsg3z-mo05w3b2",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "03" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00003/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ogdurfsg3z-mo05w3b2/annotation-page/77xs84ff5nb-mo05w3b2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/vzwinxh43mk-mo05w3b1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ogdurfsg3z-mo05w3b2",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00003/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00003",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/2mo9a2vstrt-mo05wgja",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "04" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00004/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/2mo9a2vstrt-mo05wgja/annotation-page/b001qmutj2a-mo05wgja",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/f844gox0sh9-mo05wgj9",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/2mo9a2vstrt-mo05wgja",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00004/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00004",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/afm9jpq836r-mo05wxj5",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "05" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00005/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/afm9jpq836r-mo05wxj5/annotation-page/5adkn27afc-mo05wxj5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/epz9y0w0cbn-mo05wxj4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/afm9jpq836r-mo05wxj5",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00005/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00005",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/a0zeoda3odl-mo05xk9g",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "06" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00006/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/a0zeoda3odl-mo05xk9g/annotation-page/h3hwpo4r54-mo05xk9g",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/ii9un8gaho-mo05xk9g",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/a0zeoda3odl-mo05xk9g",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00006/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00006",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mr4sfg3b6m-mo05xx2b",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "07" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00007/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mr4sfg3b6m-mo05xx2b/annotation-page/06rlw3jwdqbv-mo05xx2b",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/65l4kz4964u-mo05xx2b",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mr4sfg3b6m-mo05xx2b",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00007/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00007",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m308jyvjbhf-mo05y6te",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "08" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00008/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m308jyvjbhf-mo05y6te/annotation-page/wqu9c7jvkl-mo05y6te",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/md63pkdo7ko-mo05y6td",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m308jyvjbhf-mo05y6te",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00008/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00008",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/fzivfc4eu28-mo05yo51",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "09" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00009/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/fzivfc4eu28-mo05yo51/annotation-page/jl5jmhs5o0g-mo05yo51",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/oc6axm4x7w-mo05yo51",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/fzivfc4eu28-mo05yo51",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00009/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00009",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/xrfbuxcsytm-mo05yz6r",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "10" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00010/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/xrfbuxcsytm-mo05yz6r/annotation-page/eg3ioy92v3-mo05yz6r",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/aab5jidixbl-mo05yz6q",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/xrfbuxcsytm-mo05yz6r",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00010/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00010",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m8m26uk1qth-mo05zc1c",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "11" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00011/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m8m26uk1qth-mo05zc1c/annotation-page/yjhv6qid4ir-mo05zc1c",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/m1ut7m3dt3q-mo05zc1a",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m8m26uk1qth-mo05zc1c",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00011/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00011",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/34wng4itx7r-mo05zmrt",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "12" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00012/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/34wng4itx7r-mo05zmrt/annotation-page/02jyqrmohedi-mo05zmrt",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/tkplkcy6x3-mo05zmrs",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/34wng4itx7r-mo05zmrt",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00012/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00012",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m396j4gcper-mo05zzq4",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "13" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00013/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m396j4gcper-mo05zzq4/annotation-page/517hsc4m3hx-mo05zzq4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/gzwon7lzhne-mo05zzq4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m396j4gcper-mo05zzq4",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00013/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00013",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mb8clrhfpmr-mo060i0c",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "14" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00014/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mb8clrhfpmr-mo060i0c/annotation-page/tdl99p3ft6-mo060i0c",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/694dqp14ouu-mo060i0c",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mb8clrhfpmr-mo060i0c",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00014/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00014",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/dsoq82zta56-mo060udw",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "15" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00015/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/dsoq82zta56-mo060udw/annotation-page/sk48jvvo28m-mo060udw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/1z4g98xtvfl-mo060udw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/dsoq82zta56-mo060udw",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00015/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00015",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/yy8nz8daki-mo061n80",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "16" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00016/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/yy8nz8daki-mo061n80/annotation-page/0st1115s70l-mo061n80",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/yakddtklmq-mo061n7z",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/yy8nz8daki-mo061n80",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00016/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00016",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/muwmirl8z8n-mo061x3d",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "17" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00017/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/muwmirl8z8n-mo061x3d/annotation-page/hc9pful24es-mo061x3d",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/mse2agyenk9-mo061x3d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/muwmirl8z8n-mo061x3d",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00017/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00017",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/gqiikipr73d-mo0626vo",
+    "type" : "Canvas",
+    "height" : 2360,
+    "width" : 1640,
+    "label" : {
+      "en" : [ "18" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00018/full/410,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 590,
+      "width" : 410
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/gqiikipr73d-mo0626vo/annotation-page/v1mpxdtwzos-mo0626vo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/ltcmdjt0sl-mo0626vn",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/gqiikipr73d-mo0626vo",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00018/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2360,
+          "width" : 1640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 52,
+              "height" : 74
+            }, {
+              "width" : 103,
+              "height" : 148
+            }, {
+              "width" : 205,
+              "height" : 295
+            }, {
+              "width" : 410,
+              "height" : 590
+            }, {
+              "width" : 820,
+              "height" : 1180
+            }, {
+              "width" : 1640,
+              "height" : 2360
+            } ],
+            "profile" : "level0",
+            "width" : 1640,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00018",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2360
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/keps3e0w0s-mo062hfz",
+    "type" : "Canvas",
+    "height" : 2360,
+    "width" : 1640,
+    "label" : {
+      "en" : [ "19" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00019/full/410,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 590,
+      "width" : 410
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/keps3e0w0s-mo062hfz/annotation-page/hgtgqa70pt-mo062hfz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/6yxvs9oqena-mo062hfz",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/keps3e0w0s-mo062hfz",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00019/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2360,
+          "width" : 1640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 52,
+              "height" : 74
+            }, {
+              "width" : 103,
+              "height" : 148
+            }, {
+              "width" : 205,
+              "height" : 295
+            }, {
+              "width" : 410,
+              "height" : 590
+            }, {
+              "width" : 820,
+              "height" : 1180
+            }, {
+              "width" : 1640,
+              "height" : 2360
+            } ],
+            "profile" : "level0",
+            "width" : 1640,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00019",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2360
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/0x2fsowemmsq-mo062rjv",
+    "type" : "Canvas",
+    "height" : 2360,
+    "width" : 1640,
+    "label" : {
+      "en" : [ "20\n" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00020/full/410,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 590,
+      "width" : 410
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/0x2fsowemmsq-mo062rjv/annotation-page/a1lbpwwlzl5-mo062rjv",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/kbt54s1k4h-mo062rju",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/0x2fsowemmsq-mo062rjv",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00020/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2360,
+          "width" : 1640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 52,
+              "height" : 74
+            }, {
+              "width" : 103,
+              "height" : 148
+            }, {
+              "width" : 205,
+              "height" : 295
+            }, {
+              "width" : 410,
+              "height" : 590
+            }, {
+              "width" : 820,
+              "height" : 1180
+            }, {
+              "width" : 1640,
+              "height" : 2360
+            } ],
+            "profile" : "level0",
+            "width" : 1640,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00020",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2360
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ro8eh3asx5-mo0636d5",
+    "type" : "Canvas",
+    "height" : 2360,
+    "width" : 1640,
+    "label" : {
+      "en" : [ "21" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00021/full/410,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 590,
+      "width" : 410
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ro8eh3asx5-mo0636d5/annotation-page/lwvittflnw-mo0636d5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/ob94348ag4-mo0636d5",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ro8eh3asx5-mo0636d5",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00021/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2360,
+          "width" : 1640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 52,
+              "height" : 74
+            }, {
+              "width" : 103,
+              "height" : 148
+            }, {
+              "width" : 205,
+              "height" : 295
+            }, {
+              "width" : 410,
+              "height" : 590
+            }, {
+              "width" : 820,
+              "height" : 1180
+            }, {
+              "width" : 1640,
+              "height" : 2360
+            } ],
+            "profile" : "level0",
+            "width" : 1640,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00021",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2360
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/h46nwit93cd-mo063kl2",
+    "type" : "Canvas",
+    "height" : 2360,
+    "width" : 1640,
+    "label" : {
+      "en" : [ "22" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00022/full/410,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 590,
+      "width" : 410
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/h46nwit93cd-mo063kl2/annotation-page/8aqy3ekiffa-mo063kl2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/du69z2p3446-mo063kl1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/h46nwit93cd-mo063kl2",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00022/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2360,
+          "width" : 1640,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 52,
+              "height" : 74
+            }, {
+              "width" : 103,
+              "height" : 148
+            }, {
+              "width" : 205,
+              "height" : 295
+            }, {
+              "width" : 410,
+              "height" : 590
+            }, {
+              "width" : 820,
+              "height" : 1180
+            }, {
+              "width" : 1640,
+              "height" : 2360
+            } ],
+            "profile" : "level0",
+            "width" : 1640,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00022",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2360
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/bfujrj7p1c-mo063ziq",
+    "type" : "Canvas",
+    "height" : 4032,
+    "width" : 3024,
+    "label" : {
+      "en" : [ "23" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00023/full/378,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 504,
+      "width" : 378
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/bfujrj7p1c-mo063ziq/annotation-page/v1qhl78wwhd-mo063ziq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/njjbiaqqhq-mo063ziq",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/bfujrj7p1c-mo063ziq",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00023/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4032,
+          "width" : 3024,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 95,
+              "height" : 126
+            }, {
+              "width" : 189,
+              "height" : 252
+            }, {
+              "width" : 378,
+              "height" : 504
+            }, {
+              "width" : 756,
+              "height" : 1008
+            }, {
+              "width" : 1512,
+              "height" : 2016
+            }, {
+              "width" : 3024,
+              "height" : 4032
+            } ],
+            "profile" : "level0",
+            "width" : 3024,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00023",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4032
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/nrd7aezkfs-mo0648nj",
+    "type" : "Canvas",
+    "height" : 1500,
+    "width" : 5400,
+    "label" : {
+      "en" : [ "24" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00024/full/338,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 94,
+      "width" : 338
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/nrd7aezkfs-mo0648nj/annotation-page/mbh65tkgnd-mo0648nj",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/3fj8k73hyjq-mo0648nj",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/nrd7aezkfs-mo0648nj",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00024/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1500,
+          "width" : 5400,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 169,
+              "height" : 47
+            }, {
+              "width" : 338,
+              "height" : 94
+            }, {
+              "width" : 675,
+              "height" : 188
+            }, {
+              "width" : 1350,
+              "height" : 375
+            }, {
+              "width" : 2700,
+              "height" : 750
+            }, {
+              "width" : 5400,
+              "height" : 1500
+            } ],
+            "profile" : "level0",
+            "width" : 5400,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00024",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1500
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/if9eo058i7i-mo064lcj",
+    "type" : "Canvas",
+    "height" : 1500,
+    "width" : 5400,
+    "label" : {
+      "en" : [ "25" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00025/full/338,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 94,
+      "width" : 338
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/if9eo058i7i-mo064lcj/annotation-page/ze9q0c1bfq-mo064lcj",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/annotation/s8usf2vg75f-mo064lcj",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/if9eo058i7i-mo064lcj",
+        "body" : {
+          "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00025/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1500,
+          "width" : 5400,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 169,
+              "height" : 47
+            }, {
+              "width" : 338,
+              "height" : 94
+            }, {
+              "width" : 675,
+              "height" : 188
+            }, {
+              "width" : 1350,
+              "height" : 375
+            }, {
+              "width" : 2700,
+              "height" : 750
+            }, {
+              "width" : 5400,
+              "height" : 1500
+            } ],
+            "profile" : "level0",
+            "width" : 5400,
+            "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-00025",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1500
+          } ]
+        }
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "id" : "https://example.org/h1xb91ktbd7-mo05szy9/range/2od3uc16q9m-mo067lxk",
+    "type" : "Range",
+    "label" : {
+      "en" : [ "Table of contents" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/h1xb91ktbd7-mo05szy9/range/d6gh8odhrfl-mo067lxj",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "Range 1" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/s05d73xrzfs-mo05v6rw",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/getx03phdh-mo05vrmu",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ogdurfsg3z-mo05w3b2",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/2mo9a2vstrt-mo05wgja",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/afm9jpq836r-mo05wxj5",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/a0zeoda3odl-mo05xk9g",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mr4sfg3b6m-mo05xx2b",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m308jyvjbhf-mo05y6te",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/fzivfc4eu28-mo05yo51",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/xrfbuxcsytm-mo05yz6r",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m8m26uk1qth-mo05zc1c",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/34wng4itx7r-mo05zmrt",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/m396j4gcper-mo05zzq4",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/mb8clrhfpmr-mo060i0c",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/dsoq82zta56-mo060udw",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/yy8nz8daki-mo061n80",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/muwmirl8z8n-mo061x3d",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/gqiikipr73d-mo0626vo",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/keps3e0w0s-mo062hfz",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/0x2fsowemmsq-mo062rjv",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/ro8eh3asx5-mo0636d5",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/h46nwit93cd-mo063kl2",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/bfujrj7p1c-mo063ziq",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/nrd7aezkfs-mo0648nj",
+        "type" : "Canvas"
+      }, {
+        "id" : "https://example.org/h1xb91ktbd7-mo05szy9/canvas/if9eo058i7i-mo064lcj",
+        "type" : "Canvas"
+      } ]
+    } ]
+  } ]
+}
