@@ -2113,6 +2113,168 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "CDH-DataSchool-Derive-2026-04-T2-002"
+                ]
+            },
+            "height": 4032,
+            "width": 3024,
+            "items": [
+                {
+                    "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-002/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            },
+                                            {
+                                                "width": 3024,
+                                                "height": 4032
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3024,
+                                        "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-002",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4032
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-002/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-003/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "CDH-DataSchool-Derive-2026-04-T2-003"
+                ]
+            },
+            "height": 4032,
+            "width": 3024,
+            "items": [
+                {
+                    "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-003/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-003/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-003/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 95,
+                                                "height": 126
+                                            },
+                                            {
+                                                "width": 189,
+                                                "height": 252
+                                            },
+                                            {
+                                                "width": 378,
+                                                "height": 504
+                                            },
+                                            {
+                                                "width": 756,
+                                                "height": 1008
+                                            },
+                                            {
+                                                "width": 1512,
+                                                "height": 2016
+                                            },
+                                            {
+                                                "width": 3024,
+                                                "height": 4032
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 3024,
+                                        "id": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-003",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 4032
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://irisbox.github.io/CDH-DataSchool-Derive/images/CDH-DataSchool-Derive-2026-04-T2-003/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
