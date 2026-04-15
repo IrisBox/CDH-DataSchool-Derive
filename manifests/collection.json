@@ -1,0 +1,15 @@
+{
+  "id" : "https://IrisBox.github.io/CDH-DataSchool-Derive/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in IrisBox/CDH-DataSchool-Derive project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://IrisBox.github.io/CDH-DataSchool-Derive/manifests/Team-1.json",
+    "label" : {
+      "en" : [ "Team-1 " ]
+    },
+    "type" : "Manifest"
+  } ]
+}
