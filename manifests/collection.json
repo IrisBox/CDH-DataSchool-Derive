@@ -29,5 +29,11 @@
       "en" : [ "Team 3" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://IrisBox.github.io/CDH-DataSchool-Derive/manifests/Yew.json",
+    "label" : {
+      "en" : [ "Yew Tree" ]
+    },
+    "type" : "Manifest"
   } ]
 }
