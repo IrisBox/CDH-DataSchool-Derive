@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 313,
+    "height" : 197
+  }, {
+    "width" : 625,
+    "height" : 394
+  }, {
+    "width" : 1250,
+    "height" : 788
+  }, {
+    "width" : 2500,
+    "height" : 1575
+  }, {
+    "width" : 5000,
+    "height" : 3150
+  }, {
+    "width" : 10000,
+    "height" : 6300
+  } ],
+  "profile" : "level0",
+  "width" : 10000,
+  "id" : "https://irisbox.github.io/CDH-DataSchool-Derive/images/Yew",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 6300
+}
