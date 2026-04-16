@@ -23,5 +23,11 @@
       "en" : [ "Team 2" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://IrisBox.github.io/CDH-DataSchool-Derive/manifests/Team-3.json",
+    "label" : {
+      "en" : [ "Team 3" ]
+    },
+    "type" : "Manifest"
   } ]
 }
